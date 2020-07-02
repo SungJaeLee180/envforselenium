@@ -1,9 +1,10 @@
-### Development
+# Development
+
 
 
 # 1. basic settings for macOS
 
----
+
 
 first. install home brew
 ---
@@ -33,7 +34,7 @@ b. add to PATH, using macOS View >>> Command Palette
 
 # 2. package management
 
----
+
 
 
 # Download Anaconda navigator at /Application . use brew
@@ -49,5 +50,7 @@ for ```com.apple.quarantine``` issue, ```$ xattr -d com.apple.quarantine chromed
 
 try ```chromedriver``` at terminal.
 
+
+---
 
 ### Operation
