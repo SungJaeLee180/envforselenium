@@ -1,7 +1,8 @@
-envforselenium
--
 
-basic settings for macOS
+
+# 1. basic settings for macOS
+
+---
 
 first. install home brew
 ---
@@ -29,6 +30,7 @@ a. official download website.
 b. add to PATH, using macOS View >>> Command Palette
 
 
+# 2. package management
 
 ---
 
